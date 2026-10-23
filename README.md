@@ -5,3 +5,4 @@ Feature B
 ## Dashboard Feature 
 ## Login Feature 
 
+## Settings Feature 
