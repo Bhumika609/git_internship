@@ -7,3 +7,8 @@ Feature B
 
 ## Settings Feature 
 ## Reports Feature 
+ 
+## Profile Feature 
+- User profile page 
+- Edit profile details 
+- Update profile information 
